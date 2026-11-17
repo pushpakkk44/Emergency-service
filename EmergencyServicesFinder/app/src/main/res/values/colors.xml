@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Dark Theme Palette -->
+    <color name="bg_dark">#0B0F19</color>
+    <color name="surface_card">#151C2C</color>
+    <color name="surface_card_inner">#1A2336</color>
+    <color name="surface_toolbar">#111726</color>
+    <color name="stroke_border">#263248</color>
+
+    <color name="accent_emerald">#00F59B</color>
+    <color name="accent_emerald_dark">#0D3B2E</color>
+    <color name="accent_cyan">#38BDF8</color>
+    <color name="accent_indigo">#6366F1</color>
+    <color name="accent_favorite">#FF4D6D</color>
+
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- Selector Colors -->
+    <color name="chip_bg_selected">#183D33</color>
+    <color name="chip_bg_normal">#1E283D</color>
+    <color name="chip_stroke_selected">#00F59B</color>
+    <color name="chip_stroke_normal">#263248</color>
+</resources>
